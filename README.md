@@ -3,10 +3,10 @@
 # Seeded Data
 
 **Account**
-Id: `testacct-0000-0000-0000-000000000000`
-Username: `admin@gmail.com`
-Password: `scoobydoo`
-Bearer Token: `BEcSG4MsgCOk4+UTA8gtZw==`
+Id: `testacct-0000-0000-0000-000000000000`  
+Username: `admin@gmail.com`  
+Password: `scoobydoo`  
+Bearer Token: `BEcSG4MsgCOk4+UTA8gtZw==`  
 
 # Running
 **Pre-requites**
